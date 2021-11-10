@@ -63,7 +63,7 @@ int main (int argc, char **argv) {
     aloca_pastilhas (pastilha, quant_pastilhas);
 
 
-    fprintf (stderr, "Lendo as apstilhas da pasta: %s\n", pasta);
+    fprintf (stderr, "Lendo as pastilhas da pasta: %s\n", pasta);
 
     // guarda todas as pastilhas em memoria
     for (i = 0; i < quant_pastilhas; i++) {
